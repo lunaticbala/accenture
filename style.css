@@ -1,0 +1,241 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.div-100{width: 100%;
+float: left;}
+
+.div-33{width: 33%;
+float: left;}
+
+.div-25{width: 25%;
+float: left;}
+
+.div-60{width: 60%;
+float: left;}
+.logo{
+    
+    float: left;
+    margin-top: 8px;
+    width: 100px;
+    margin-left: 0px;
+    margin-right: 20px;
+
+}
+img{
+    width: 100%;
+}
+video{
+    width: 100%;
+}
+.pic11{
+    width: 100px;
+    float:left;
+}
+.pic4{
+    font-size: 20px;
+    color: #848484;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.pic5{
+    font-size: 20px;
+    color: #848484;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 15px;
+
+}
+.pic6{
+    font-size: 20px;
+    color: #848484;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+.pic7{
+    font-size: 22px;
+    color: #848484;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    padding-left: 35px;
+    padding-right: 15px;
+}
+
+.pic8{
+    font-size: 20px;
+    color: #848484;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 15px;
+  
+}
+.pic9{
+    font-size: 20px;
+    color: #848484;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    padding-left: 12px;
+    padding-right: 15px;
+
+}
+.pic10{
+    
+    font-size: 20px;
+    color: #848484;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    padding-left: 18px;
+    padding-right: 15px;
+
+}
+.pic12{
+    float: left;
+    margin-top: 8px;
+    width: 100px;
+    margin-left: 0px;
+
+}
+    
+    .menu{
+        float: left;
+        padding-left:10px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        
+    }
+
+
+.menu1{
+    float: left;
+    padding-left: 0px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    margin-left: 5px;
+}
+.menu2{
+    float: left;
+    padding-left:392px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    
+}
+.menu3{
+    font-size: 20px;
+    margin-top: -60px;
+    float: left;
+    width: 100%;
+    padding-left: 463px;
+    padding-right: 15px;
+
+}
+.menu4{
+    font-size: 20px;
+    margin-top: -19px;
+    float: left;
+    width: 100%;
+    padding-left: 427px;
+    padding-right: 15px;
+}
+.menu5{
+    float: left;
+    padding-left:426px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    
+}
+.menu6{
+    float: left;
+    padding-left:6px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    
+}
+.menu7{
+    float: left;
+    padding-left:98px;
+    padding-top: 49px;
+    margin-bottom: 10px;
+    padding-right: 15px;
+    
+}
+
+.menu8{
+    float: left;
+    padding-left:24px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+    padding-right: 7px;
+    
+}
+.menu9{
+    float: left;
+    padding-left:279px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+    padding-right: 5px;
+    
+}
+.text{
+    float: left;
+    padding-left:490px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    
+}
+.text1{
+    float: left;
+    padding-left:408px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    
+}
+.btext{
+    float: left;
+    padding-left:475px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    
+}
+.vedio5 {
+    float: left;
+    margin-top: 8px;
+    width: 1245px;
+    margin-left: 5px;
+    margin-right: 50px;
+}
+.btext1{
+    float: left;
+    padding-left:429px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    
+}
+.vedio8{
+    float: left;
+    width: 100px;
+    
+}
